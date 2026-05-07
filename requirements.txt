@@ -1,0 +1,7 @@
+pipecat-ai
+faster-whisper
+piper-tts
+ollama
+python-dotenv
+websockets
+asyncio
